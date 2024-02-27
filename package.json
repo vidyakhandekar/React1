@@ -1,0 +1,19 @@
+{
+  "name": "50react",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "app1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "vidya Khandekar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  }
+}
